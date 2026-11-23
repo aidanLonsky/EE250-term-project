@@ -1,0 +1,9 @@
+Result,Value
+Total flights,57224.0
+Late flights,9558.0
+Probability of lateness,0.16702782049489726
+Flights with positive delays,17685.0
+Probability of a positive delay,0.3090486509156997
+Lognormal mu,2.797580760128344
+Lognormal sigma,1.4260050744224115
+Lognormal scale,16.40491131013889
